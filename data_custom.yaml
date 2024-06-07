@@ -1,0 +1,10 @@
+
+train: 
+  - C:\Users\Antonio Ferreira\Downloads\archive\train\ace of clubs
+  - C:\Users\Antonio Ferreira\Downloads\archive\train\ace of diamonds
+  - C:\Users\Antonio Ferreira\Downloads\archive\train\ace of hearts
+  - C:\Users\Antonio Ferreira\Downloads\archive\train\eight of hearts
+  - C:\Users\Antonio Ferreira\Downloads\archive\train\five of diamonds
+val: C:\Users\Antonio Ferreira\Desktop\prova2\var_dir\
+nc: 5
+names: ["a_paus", "a_ouros", "a_copas", "oito_copas", "cinco_ouros"]
